@@ -15,15 +15,51 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+YouTube Video: https://youtu.be/m-Fu62d7gVk
 
 ## App Brainstorming (Step 4)
+
+1. Coursera
+
+   - Lots of online courses from top universities.
+
+   - Flexible learning schedules and deadlines.
+
+   - Can learn on the go.
+
+2. Amazon
+
+   - Wide range of products with detailed reviews.
+
+   - One-click purchasing for convenience.
+
+   - Personalized recommendations based on browsing history.
+
+3. YouTube
+
+   - Personalized video recommendations based on viewing history.
+
+   - Ability to create and manage playlists.
+
+   - Live streaming for real-time interaction with content creators.
+  
+
+An app designed to connect people who want to learn new skills with those who can teach them. Users can create profiles listing the skills they want to learn and the skills they can teach. The app facilitates skill-sharing sessions and provides a platform for users to exchange knowledge.
+
+Features:
+
+   - **Skill Listings:** Users can create and browse listings of skills they want to learn and teach.
+
+   - **Matchmaking:** The app matches users based on their skill preferences and availability.
+
+   - **Messaging:** Users can communicate with each other to arrange skill-sharing sessions.
+
+   - **Rating System:** Users can rate their skill-sharing experiences to build trust within the community.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- I wanted to add to change the text color but I am unsure on how to do it and I kept getting errors
 
 ## License
 
