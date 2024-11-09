@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *BG Changer*
 
-Submitted by: **Your Name Here**
+Submitted by: **Lynjai Jimenez**
 
-**Name of your app** is an app that... [TODO] 
+**BG Changer** is an app that changes the background color when clicking the button. It will change on every click. 
 
 Time spent: **2** hours spent in total
 
